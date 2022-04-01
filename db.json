@@ -1,6 +1,8 @@
 {
-	"@timestamp": "2022-03-31 11:46:11",
-	"@message": "1514648[Warning] Aborted connection 1514648 to db: 'unconnected'",
+	"posts": [{
+		"@timestamp": "2022-03-31 11:46:11",
+		"@message": "1514648[Warning] Aborted connection 1514648 to db: 'unconnected'"
+	}],
 	"profile": {
 		"name": "typicode"
 	}
